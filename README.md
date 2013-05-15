@@ -1,4 +1,4 @@
-h7n9
+H7N9 Tracker
 ====
 
-Tracking H7N9 Cases
+Tracking H7N9 Cases on the map.
